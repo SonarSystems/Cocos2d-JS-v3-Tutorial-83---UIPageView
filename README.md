@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-83---UIPageView
+Cocos2d-JS v3 Tutorial 83 - UIPageView
 ======================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/FxVY2rcif9U
